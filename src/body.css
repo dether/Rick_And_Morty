@@ -1,0 +1,9 @@
+body {
+    /* Resto de tus estilos */
+    background-image: url('https://ic.c4assets.com/brands/rick-and-morty/25061866-e35b-405b-9cb4-cb71748e9592.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90&resize=1160px:*');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover; /* o contain */
+    background-attachment: fixed;
+
+}
